@@ -1,6 +1,6 @@
-## React Tutorial
+## React App
 
-### Tech stack:
+### Stack:
 
 - ReactJS
 - Antd
